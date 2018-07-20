@@ -52,7 +52,7 @@ Visual Studio 是一个 IDE 或集成的开发环境。 就像使用 Microsoft W
 
 ![](getting-started/_static/image3.png)
 
-Visual Studio 刚刚创建的 ASP.NET MVC 项目使用默认模板，因此您的工作应用程序现在具有而无需执行任何操作 ！ 这是简单"Hello World ！" 项目和它的启动应用程序的好时机。
+Visual Studio 刚刚创建的 ASP.NET MVC 项目使用默认模板，因此您无须执行任何操作就有了一个可以运行的应用程序 ！ 这是一个简单的"Hello World ！" 项目，对您的应用程序也是一个好的起跑线。
 
 ![](getting-started/_static/image4.png)
 
